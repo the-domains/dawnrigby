@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Dawn Rigby]]></title>
         <description><![CDATA[Dawn Rigby]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dawnrigby/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 08:54:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 08:57:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dawnrigby/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefinedb616f2dc-f742-47e7-865d-b078541d993f/index.html</link>
+            <title><![CDATA[Who am I]]></title>
+            <description><![CDATA[<article><h1>Who am I</h1><p>I have worked in many different environments covering the majority of the key factors. However, in the last few years one of the areas that I have become more and more interested in is the contribution that play can deliver to the development of children. </p></article>]]></description>
+            <link>https://thegrid.ai/dawnrigby/b616f2dc-f742-47e7-865d-b078541d993f/index.html</link>
             <guid isPermaLink="false">b616f2dc-f742-47e7-865d-b078541d993f</guid>
-            <pubDate>Thu, 07 Apr 2016 08:54:04 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 08:57:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
